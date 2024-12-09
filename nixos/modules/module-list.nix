@@ -1700,6 +1700,7 @@
   ./services/web-apps/prosody-filer.nix
   ./services/web-apps/readeck.nix
   ./services/web-apps/reposilite.nix
+  ./services/web-apps/reposilite-mine.nix
   ./services/web-apps/rimgo.nix
   ./services/web-apps/rss-bridge.nix
   ./services/web-apps/rutorrent.nix

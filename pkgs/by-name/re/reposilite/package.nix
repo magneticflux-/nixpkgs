@@ -55,6 +55,7 @@ stdenv.mkDerivation (finalAttrs: {
     maintainers = with lib.maintainers; [
       jamalam
       uku3lig
+      magneticflux-
     ];
     inherit (jre_headless.meta) platforms;
     mainProgram = "reposilite";
